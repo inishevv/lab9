@@ -19,9 +19,10 @@
 # Cкриншоты тестов
 
 Тест 1:
-
+![Screenshot 1](https://github.com/inishevv/lab9/blob/main/2023-11-13_22-26-17.png)
 
 Тест 2:
-
+![Screenshot 1](https://github.com/inishevv/lab9/blob/main/2023-11-13_22-26-39.png)
 
 Тест 3:
+![Screenshot 1](https://github.com/inishevv/lab9/blob/main/2023-11-13_22-27-00.png)
