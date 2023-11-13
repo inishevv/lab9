@@ -13,10 +13,13 @@ def chislo(prompt):
         user_n = input(prompt)
         try:
             number = int(user_n)
-            return number
+            if number > 0:
+                return number
+            else:
+                print('Число должно быть положительным')
         except ValueError:
-            print("Введено не число, попробуйте снова.")
-            logging.warning("Введено не число, попробуйте снова.")
+            print('Введено не число, попробуйте снова')
+            logging.warning('Введено не число, попробуйте снова')
 
 #для ввода значения N 
 print('Введите количество боченков: ')
